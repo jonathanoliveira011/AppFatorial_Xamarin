@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\AppFatorial\AppFatorial\AppFatorial\bin\Debug\netstandard2.0\AppFatorial.deps.json
+C:\Users\User\source\repos\AppFatorial\AppFatorial\AppFatorial\bin\Debug\netstandard2.0\AppFatorial.dll
+C:\Users\User\source\repos\AppFatorial\AppFatorial\AppFatorial\bin\Debug\netstandard2.0\AppFatorial.pdb
+C:\Users\User\source\repos\AppFatorial\AppFatorial\AppFatorial\obj\Debug\netstandard2.0\AppFatorial.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\AppFatorial\AppFatorial\AppFatorial\obj\Debug\netstandard2.0\AppFatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\AppFatorial\AppFatorial\AppFatorial\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\source\repos\AppFatorial\AppFatorial\AppFatorial\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User\source\repos\AppFatorial\AppFatorial\AppFatorial\obj\Debug\netstandard2.0\AppFatorial.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AppFatorial\AppFatorial\AppFatorial\obj\Debug\netstandard2.0\AppFatorial.AssemblyInfo.cs
+C:\Users\User\source\repos\AppFatorial\AppFatorial\AppFatorial\obj\Debug\netstandard2.0\AppFatorial.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AppFatorial\AppFatorial\AppFatorial\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\source\repos\AppFatorial\AppFatorial\AppFatorial\obj\Debug\netstandard2.0\AppFatorial.dll
+C:\Users\User\source\repos\AppFatorial\AppFatorial\AppFatorial\obj\Debug\netstandard2.0\refint\AppFatorial.dll
+C:\Users\User\source\repos\AppFatorial\AppFatorial\AppFatorial\obj\Debug\netstandard2.0\AppFatorial.pdb
+C:\Users\User\source\repos\AppFatorial\AppFatorial\AppFatorial\obj\Debug\netstandard2.0\ref\AppFatorial.dll
